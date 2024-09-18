@@ -1,4 +1,6 @@
-print(5)
-for i in range(1,5):
-   print(i)
-print("10")
+def sub(a, b):
+   return a - b
+def add(a, b):
+   return a + b
+def mult(a,b):
+   return a*b
